@@ -27,7 +27,7 @@ apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
     namespace 'com.prongbang.screen_protector_example'
-    compileSdk 33
+    compileSdk 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11

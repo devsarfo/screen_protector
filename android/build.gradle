@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace 'com.prongbang.screen_protector'
-    compileSdk 33
+    compileSdk 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
